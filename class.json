@@ -1,1 +1,24 @@
-Hi
+{
+  "classes": [
+    {
+      "name": "Class 8",
+      "medium": "English",
+      "subjects": []
+    },
+    {
+      "name": "Class 8",
+      "medium": "Malayalam",
+      "subjects": []
+    },
+    {
+      "name": "Class 9",
+      "medium": "English",
+      "subjects": []
+    },
+    {
+      "name": "Class 10",
+      "medium": "Malayalam",
+      "subjects": []
+    }
+  ]
+}
