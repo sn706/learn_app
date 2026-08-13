@@ -73,6 +73,11 @@
             "name": "STD 6",
             "medium": "",
             "subjects": []
+        },
+        {
+            "name": "STD 7",
+            "medium": "",
+            "subjects": []
         }
     ]
 }
