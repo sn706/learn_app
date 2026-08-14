@@ -22,7 +22,12 @@
                                         {
                                             "type": "Title",
                                             "align": "left",
-                                            "content": "<p dir=\"ltr\">&#3358;&#3375;&#3375;&#3398;<\/p>"
+                                            "content": "<p dir=\"ltr\">&#3358;&#3375;&#3375;&#3398;<\/p>",
+                                            "font": "chilanka_regular",
+                                            "has_border": true,
+                                            "border_radius": 15,
+                                            "text_color": "#795548",
+                                            "bg_color": "#F44336"
                                         },
                                         {
                                             "type": "Points",
