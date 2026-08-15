@@ -1,4 +1,4 @@
- {
+{
     "classes": [
         {
             "name": "7",
@@ -120,6 +120,39 @@
                                                     "<p dir=\"ltr\">&#3358;&#3362;<\/p>",
                                                     "<p dir=\"ltr\">&#3376;&#3375;<\/p>"
                                                 ]
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "points": [
+                                {
+                                    "class_name": "7",
+                                    "medium": "Malayalam",
+                                    "subject": "അടിസ്ഥാന ശാസ്ത്രം",
+                                    "chapter_number": "",
+                                    "chapter_name": "4 . പ്രകാശം പ്രതിപതിക്കുമ്പോൾ",
+                                    "type": "important_points",
+                                    "blocks": [
+                                        {
+                                            "type": "Points",
+                                            "points": [
+                                                {
+                                                    "symbol": "➤",
+                                                    "text": "<p dir=\"ltr\">&#3364;&#3366;&#3368;&#3368;&#3382;&#3383;&#3383;&#3383;<\/p>"
+                                                },
+                                                {
+                                                    "symbol": "➤",
+                                                    "text": "<p dir=\"ltr\">&#3382;&#3384;&#3385;&#3385;<\/p>"
+                                                },
+                                                {
+                                                    "symbol": "➤",
+                                                    "text": "<p dir=\"ltr\">&#3382;&#3384;&#3385;<\/p>"
+                                                },
+                                                {
+                                                    "symbol": "➤",
+                                                    "text": ""
+                                                }
                                             ]
                                         }
                                     ]
