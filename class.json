@@ -127,8 +127,69 @@
                                     ]
                                 }
                             ],
-                            "qa": [],
-                            "points": []
+                            "qa": [
+                                {
+                                    "class_name": "STD 7",
+                                    "medium": "Malayalam",
+                                    "subject": "അടിസ്ഥാന ശാസ്ത്രം",
+                                    "chapter_number": "",
+                                    "chapter_name": "4.പ്രകാശം പ്രതിപതിക്കുമ്പോൾ",
+                                    "type": "question_answer",
+                                    "blocks": [
+                                        {
+                                            "type": "Question",
+                                            "align": "left",
+                                            "content": "<p dir=\"ltr\">&#3349;&#3399;&#3376;&#3379;&#3364;&#3405;&#3364;&#3391;&#3378;&#3398; &#3356;&#3391;&#3378;&#3405;&#3378;&#3349;&#3454;<\/p>",
+                                            "text_size": 22,
+                                            "has_border": false,
+                                            "border_radius": 0,
+                                            "text_color": "#FF0000",
+                                            "bg_color": ""
+                                        },
+                                        {
+                                            "type": "Answer",
+                                            "align": "left",
+                                            "content": "<p dir=\"ltr\">14<\/p>",
+                                            "text_size": 16,
+                                            "has_border": false,
+                                            "border_radius": 0,
+                                            "text_color": "#000000",
+                                            "bg_color": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "points": [
+                                {
+                                    "class_name": "STD 7",
+                                    "medium": "Malayalam",
+                                    "subject": "അടിസ്ഥാന ശാസ്ത്രം",
+                                    "chapter_number": "",
+                                    "chapter_name": "4.പ്രകാശം പ്രതിപതിക്കുമ്പോൾ",
+                                    "type": "important_points",
+                                    "blocks": [
+                                        {
+                                            "type": "Title",
+                                            "align": "left",
+                                            "content": "<p dir=\"ltr\">&#3349;&#3399;&#3376;&#3379;&#3330;<\/p>",
+                                            "text_size": 22,
+                                            "has_border": false,
+                                            "border_radius": 0,
+                                            "text_color": "#FF0000",
+                                            "bg_color": ""
+                                        },
+                                        {
+                                            "type": "Points",
+                                            "points": [
+                                                {
+                                                    "symbol": "💡",
+                                                    "text": "<p dir=\"ltr\">14 &#3356;&#3391;&#3378;&#3405;&#3378;&#3349;&#3454;<\/p>"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
