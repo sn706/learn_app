@@ -1,0 +1,154 @@
+{
+    "appName": "Teaching Notes",
+    "folderSettings": {
+        "createdDate": 1787886181406,
+        "docEndParagraphAlignment": "LEFT",
+        "docEndParagraphBackgroundColor": "#FFFFFF",
+        "docEndParagraphBorderColor": "#FFFFFF",
+        "docEndParagraphBorderRadius": 0,
+        "docEndParagraphFontPath": "fonts\/Times New Roman.ttf",
+        "docEndParagraphFontSize": 12,
+        "docEndParagraphIsTextUnderlined": false,
+        "docEndParagraphIsUnderlined": false,
+        "docEndParagraphTextColor": "#D32F2F",
+        "docEndTitleAlignment": "CENTER",
+        "docEndTitleBackgroundColor": "#FFFFFF",
+        "docEndTitleBorderColor": "#FFFFFF",
+        "docEndTitleBorderRadius": 0,
+        "docEndTitleFontPath": "fonts\/Calibri.ttf",
+        "docEndTitleFontSize": 14,
+        "docEndTitleIsTextUnderlined": true,
+        "docEndTitleIsUnderlined": false,
+        "docEndTitleTextColor": "#880E4F",
+        "footerAlignment": "CENTER",
+        "headerAlignment": "LEFT",
+        "id": 3,
+        "mainTitleAlignment": "CENTER",
+        "mainTitleBackgroundColor": "#B71C1C",
+        "mainTitleBorderColor": "#FFFFFF",
+        "mainTitleBorderRadius": 10,
+        "mainTitleFontColor": "#FFFFFF",
+        "mainTitleFontPath": "fonts\/MLU-Indulekha Black.ttf",
+        "mainTitleFontSize": 24,
+        "mainTitleIsTextUnderlined": false,
+        "mainTitleIsUnderlined": false,
+        "pageBorderRadius": 0,
+        "pageBorderStyle": "SOLID",
+        "pageMargin": 50,
+        "pageNumberStyle": 2,
+        "pageOrientation": "PORTRAIT",
+        "paragraphAlignment": "LEFT",
+        "paragraphBackgroundColor": "#FFFFFF",
+        "paragraphBorderColor": "#FFFFFF",
+        "paragraphBorderRadius": 0,
+        "paragraphFontColor": "#000000",
+        "paragraphFontPath": "fonts\/MLU-Karthika.ttf",
+        "paragraphFontSize": 12,
+        "paragraphIsTextUnderlined": false,
+        "paragraphIsUnderlined": false,
+        "qaAnswerBackgroundColor": "#FFFFFF",
+        "qaAnswerFontPath": "fonts\/MLU-Mohini.ttf",
+        "qaAnswerFontSize": 12,
+        "qaAnswerTextColor": "#F44336",
+        "qaBackgroundColor": "#FFFFFF",
+        "qaFontPath": "fonts\/MLU-Mohini Bold.ttf",
+        "qaFontSize": 12,
+        "qaTextColor": "#000000",
+        "subtitleAlignment": "CENTER",
+        "subtitleBackgroundColor": "#FFFFFF",
+        "subtitleBorderColor": "#FFFFFF",
+        "subtitleBorderRadius": 0,
+        "subtitleFontColor": "#C62828",
+        "subtitleFontPath": "fonts\/MLU-Mohini Bold.ttf",
+        "subtitleFontSize": 14,
+        "subtitleIsTextUnderlined": true,
+        "subtitleIsUnderlined": false,
+        "tableAlignment": "LEFT",
+        "tableBackgroundColor": "#FFFFFF",
+        "tableBorderColor": "#3E2723",
+        "tableBorderRadius": 0,
+        "tableFontPath": "fonts\/MLU-Mohini.ttf",
+        "tableFontSize": 12,
+        "tableHeadAlignment": "CENTER",
+        "tableHeadBackgroundColor": "#E65100",
+        "tableHeadBorderColor": "#FFFFFF",
+        "tableHeadBorderRadius": 0,
+        "tableHeadFontColor": "#FFFFFF",
+        "tableHeadFontPath": "fonts\/MLU-Indulekha Black.ttf",
+        "tableHeadFontSize": 12,
+        "tableHeadIsTextUnderlined": false,
+        "tableHeadIsUnderlined": false,
+        "tableIsTextUnderlined": false,
+        "tableIsUnderlined": false,
+        "titleAlignment": "CENTER",
+        "titleBackgroundColor": "#FFFFFF",
+        "titleBorderColor": "#C62828",
+        "titleBorderRadius": 40,
+        "titleFontColor": "#C62828",
+        "titleFontPath": "fonts\/MLU-Indulekha Black.ttf",
+        "titleFontSize": 22,
+        "titleIsTextUnderlined": false,
+        "titleIsUnderlined": false,
+        "updatedDate": 1788092177213
+    },
+    "standards": [
+        {
+            "std": "STD 7",
+            "mediums": [
+                {
+                    "medium": "Malayalam",
+                    "subjects": [
+                        {
+                            "subjectName": "അടിസ്ഥാന ശാസ്ത്രം",
+                            "chapters": [
+                                {
+                                    "chapterName": "4",
+                                    "notes": [
+                                        {
+                                            "documentId": 10,
+                                            "title": "STD 7 - അടിസ്ഥാന ശാസ്ത്രം - 4 പ്രകാശം പ്രതിപതിക്കുമ്പോൾ",
+                                            "category": "Samagra Notes",
+                                            "noteJsonLink": "Samagra Notes\/STD 7\/അടിസ്ഥാന ശാസ്ത്രം\/Malayalam\/4\/STD 7 - അടിസ്ഥാന ശാസ്ത്രം - 4 പ്രകാശം പ്രതിപതിക്കുമ്പോൾ.json"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "std": "Uncategorized STD",
+            "mediums": [
+                {
+                    "medium": "Uncategorized Medium",
+                    "subjects": [
+                        {
+                            "subjectName": "Uncategorized Subject",
+                            "chapters": [
+                                {
+                                    "chapterName": "Uncategorized Chapter",
+                                    "notes": [
+                                        {
+                                            "documentId": 11,
+                                            "title": "Notes - STD 7 - പ്രകാശം പ്രതിപതിക്കുമ്പോൾ",
+                                            "category": "",
+                                            "noteJsonLink": "Uncategorized\/Uncategorized STD\/Uncategorized Subject\/Uncategorized Medium\/Uncategorized Chapter\/Notes - STD 7 - പ്രകാശം പ്രതിപതിക്കുമ്പോൾ.json"
+                                        },
+                                        {
+                                            "documentId": 14,
+                                            "title": "Question And Answer",
+                                            "category": "",
+                                            "noteJsonLink": "Uncategorized\/Uncategorized STD\/Uncategorized Subject\/Uncategorized Medium\/Uncategorized Chapter\/Question And Answer.json"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
