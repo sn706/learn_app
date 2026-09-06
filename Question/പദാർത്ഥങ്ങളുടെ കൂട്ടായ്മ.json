@@ -1,11 +1,91 @@
-[
-  {
-    "fileName": "പദാർത്ഥങ്ങളുടെ കൂട്ടായ്മ.json",
-    "date": "06 September 2026, 07:37 pm",
+{
+    "name": "പദാർത്ഥങ്ങളുടെ കൂട്ടായ്മ",
+    "createdDate": 1788679733166,
+    "updatedDate": 1788708317548,
+    "filePath": "പദാർത്ഥങ്ങളുടെ കൂട്ടായ്മ\/STD 6\/Malayalam\/അടിസ്ഥാന ശാസ്ത്രം\/5\/പദാർത്ഥങ്ങളുടെ കൂട്ടായ്മ.json",
     "Class": "STD 6",
     "Medium": "Malayalam",
     "Subject": "അടിസ്ഥാന ശാസ്ത്രം",
-    "ChapterNo": "5",
-    "Chapter": "പദാർത്ഥങ്ങളുടെ കൂട്ടായ്മ"
-  }
-]
+    "Chapter": "5",
+    "Category": "പദാർത്ഥങ്ങളുടെ കൂട്ടായ്മ",
+    "folderSettings": {
+        "createdDate": 1788679713749,
+        "footerAlignment": "LEFT",
+        "headerAlignment": "LEFT",
+        "id": 7,
+        "mainTitleBorderRadius": 0,
+        "mainTitleFontSize": 0,
+        "mainTitleIsTextUnderlined": false,
+        "mainTitleIsUnderlined": false,
+        "name": "Exam",
+        "pageBorderRadius": 0,
+        "pageBorderStyle": "SOLID",
+        "pageMargin": 50,
+        "pageNumberStyle": 0,
+        "pageOrientation": "PORTRAIT",
+        "paragraphBorderRadius": 0,
+        "paragraphFontSize": 12,
+        "paragraphIsTextUnderlined": false,
+        "paragraphIsUnderlined": false,
+        "qaAnswerBackgroundColor": "#FFFFFF",
+        "qaAnswerFontPath": "fonts\/MLU-Indulekha Bold.ttf",
+        "qaAnswerFontSize": 32,
+        "qaAnswerTextColor": "#B71C1C",
+        "qaBackgroundColor": "#FFFFFF",
+        "qaFontPath": "fonts\/MLU-Indulekha Black.ttf",
+        "qaFontSize": 28,
+        "qaTextColor": "#1B5E20",
+        "subtitleBorderRadius": 0,
+        "subtitleFontSize": 14,
+        "subtitleIsTextUnderlined": false,
+        "subtitleIsUnderlined": false,
+        "tableBorderRadius": 0,
+        "tableFontSize": 12,
+        "tableHeadBorderRadius": 0,
+        "tableHeadFontSize": 0,
+        "tableHeadIsTextUnderlined": false,
+        "tableHeadIsUnderlined": false,
+        "tableIsTextUnderlined": false,
+        "tableIsUnderlined": false,
+        "titleBorderRadius": 0,
+        "titleFontSize": 22,
+        "titleIsTextUnderlined": false,
+        "titleIsUnderlined": false,
+        "updatedDate": 1788679986646
+    },
+    "elements": [
+        {
+            "type": "QA",
+            "content": "{\"question\":\"ഒന്നിലധികം വസ്തുക്കൾ ചേർന്നുണ്ടാകുന്ന പദാർഥങ്ങൾ അറിയപ്പെടുന്ന പേരെന്ത്?\",\"correctAnswer\":\"മിശ്രിതങ്ങൾ\",\"explanation\":\"\",\"options\":[\"മൂലകങ്ങൾ\",\"മിശ്രിതങ്ങൾ\",\"ശുദ്ധജലം\",\"ലോഹങ്ങൾ\"]}",
+            "fontSize": 28,
+            "fontPath": "fonts\/MLU-Indulekha Black.ttf",
+            "textColor": "#1B5E20",
+            "isUnderlined": false,
+            "isTextUnderlined": false
+        },
+        {
+            "type": "QA",
+            "content": "{\"question\":\"താഴെ പറയുന്നവയിൽ ഖരവസ്തുവും ഖരവസ്തുവും ചേർന്നുള്ള മിശ്രിതത്തിന് ഉദാഹരണം ഏത്?\",\"correctAnswer\":\"റവയും ഉപ്പും കലർന്നത്\",\"explanation\":\"\",\"options\":[\"ഉപ്പുവെള്ളം\",\"നാരങ്ങവെള്ളം\",\"റവയും ഉപ്പും കലർന്നത്\",\"പൊട്ടാസ്യം പെർമാംഗനേറ്റ് ലായനി\"]}",
+            "isUnderlined": false,
+            "isTextUnderlined": false
+        },
+        {
+            "type": "QA",
+            "content": "{\"question\":\"താഴെ പറയുന്നവയിൽ മിശ്രിതമല്ലാത്തത് ഏത്?\",\"correctAnswer\":\"ശുദ്ധമായ സ്വർണ്ണം\",\"explanation\":\"\",\"options\":[\"സാലഡ്\",\"കോൺക്രീറ്റ്\",\"കമ്പോസ്റ്റ്\",\"ശുദ്ധമായ സ്വർണ്ണം\"]}",
+            "isUnderlined": false,
+            "isTextUnderlined": false
+        },
+        {
+            "type": "QA",
+            "content": "{\"question\":\"മിശ്രിതങ്ങൾ എന്നാൽ എന്ത്? രണ്ട് ഉദാഹരണം നൽകുക.\",\"correctAnswer\":\"ഒന്നിലധികം വസ്തുക്കൾ (ഘടകങ്ങൾ) ചേർന്നുണ്ടാകുന്ന പദാർഥങ്ങളാണ് മിശ്രിതങ്ങൾ.\\nഉദാഹരണങ്ങൾ: സാലഡ്, മിക്സ്‌ചർ.\\n\",\"explanation\":\"\",\"options\":[]}",
+            "isUnderlined": false,
+            "isTextUnderlined": false
+        },
+        {
+            "type": "QA",
+            "content": "{\"question\":\"നമ്മൾ നിത്യജീവിതത്തിൽ കാണുന്ന ചില മിശ്രിതങ്ങൾക്ക് ഉദാഹരണങ്ങൾ ഏവ?\",\"correctAnswer\":\"സാലഡ്, മാങ്ങ അച്ചാർ, കോൺക്രീറ്റ്, കമ്പോസ്റ്റ്, മിക്സ്‌ചർ.\",\"explanation\":\"\",\"options\":[]}",
+            "isUnderlined": false,
+            "isTextUnderlined": false
+        }
+    ]
+}
