@@ -1,7 +1,7 @@
 {
     "name": "ജീവനുള്ള വിത്തുകൾ",
     "createdDate": 1790220145625,
-    "updatedDate": 1790341146384,
+    "updatedDate": 1790341768459,
     "filePath": "ജീവനുള്ള വിത്തുകൾ\/STD 5\/മലയാളം\/അടിസ്ഥാന ശാസ്ത്രം\/Chapter 4\/ജീവനുള്ള വിത്തുകൾ.json",
     "Class": "STD 5",
     "Medium": "മലയാളം",
@@ -34,7 +34,7 @@
         "paragraphBorderRadius": 0,
         "paragraphFontColor": "#000000",
         "paragraphFontPath": "fonts\/MLU-Mohini.ttf",
-        "paragraphFontSize": 16,
+        "paragraphFontSize": 20,
         "paragraphIsTextUnderlined": false,
         "paragraphIsUnderlined": false,
         "qaAnswerBackgroundColor": "#FFFFFF",
@@ -51,7 +51,7 @@
         "subtitleBorderRadius": 0,
         "subtitleFontColor": "#000000",
         "subtitleFontPath": "fonts\/MLU-Mohini Bold.ttf",
-        "subtitleFontSize": 20,
+        "subtitleFontSize": 22,
         "subtitleIsTextUnderlined": false,
         "subtitleIsUnderlined": false,
         "tableAlignment": "LEFT",
@@ -80,7 +80,7 @@
         "titleFontSize": 22,
         "titleIsTextUnderlined": false,
         "titleIsUnderlined": false,
-        "updatedDate": 1790221085038
+        "updatedDate": 1790341741248
     },
     "elements": [
         {
@@ -283,7 +283,7 @@
         {
             "type": "PARAGRAPH",
             "content": "[{\"text\":\"ഇവയുടെ പ്രത്യേകതകൾ (വേര്, തണ്ട്, ഇല, ബീജപത്രം) പട്ടികപ്പെടുത്തി മനസ്സിലാക്കുന്നു.\"}]",
-            "fontSize": 16,
+            "fontSize": 20,
             "fontPath": "fonts\/MLU-Mohini.ttf",
             "textColor": "#000000",
             "backgroundColor": "#FFFFFF",
